@@ -1,4 +1,4 @@
-var url_server = 'http://127.0.0.1:8080/';
+var url_server = 'http://192.168.0.100:8080/';
 var app = angular.module('subir',[])
 
 
